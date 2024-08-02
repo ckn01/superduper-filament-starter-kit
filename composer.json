@@ -74,7 +74,7 @@
         ],
       "post-create-project-cmd": [
             "@php artisan key:generate --ansi",
-            "@php artisan vendor:publish --tag=web-installer-assets --ansi"  // Tambahkan baris ini
+            "@php artisan vendor:publish --tag=web-installer-assets --ansi" 
         ]
     },
     "extra": {
