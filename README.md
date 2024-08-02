@@ -1,3 +1,5 @@
+add stability
+
 <div align="center">
   <img src="https://i.postimg.cc/4djrcJXx/logo.png" alt="Starter kit logo" width="200"/>
 
