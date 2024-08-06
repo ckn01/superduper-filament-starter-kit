@@ -71,10 +71,7 @@
         ],
         "post-create-project-cmd": [
             "@php artisan key:generate --ansi",
-            "@php artisan vendor:publish --tag=web-installer-assets --ansi",
-            "@php artisan vendor:publish --tag=web-installer-config --ansi",
-            "@php artisan serve"
-        ]
+            "@php artisan vendor:publish --tag=web-installer-assets --ansi"        ]
     },
     "extra": {
         "laravel": {
